@@ -1,5 +1,5 @@
-# UnifiTalkProviders
-A list of third party provider configs for Unifi Talk.
+# TalkProviders
+A list of third party provider configs for Talk.
 
 Feel free to create Pull requests with the configs you found out.
 
